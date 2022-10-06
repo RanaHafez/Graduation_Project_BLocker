@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "41080815190",
+    "firebase_url": "https://blocker-d8840.firebaseio.com",
+    "project_id": "blocker-d8840",
+    "storage_bucket": "blocker-d8840.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41080815190:android:c726ed73ae431fa1dbc5f7",
+        "android_client_info": {
+          "package_name": "com.crystalcoca.blocker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41080815190-bsqoc3d4qu8hkv87bpf668jf46tmng81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFyt-XsqN7pgJiDLob_0UCaqqO7gS3Esc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41080815190-bsqoc3d4qu8hkv87bpf668jf46tmng81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
